@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build
+.next/
+out/
+dist/
+build/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+*.swp
+.DS_Store
+
+# Debug / logs
+*.log
+npm-debug.log*
+
+# Test / coverage
+coverage/
+
+# Prisma
+prisma/*.db
+prisma/*.db-journal
+
+# Vercel
+.vercel
+
+# OS
+Thumbs.db
