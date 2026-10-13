@@ -1,6 +1,6 @@
-# Kortex — TED Tenis Ops
+# Kortex — Tenis Ops
 
-[TED Spor Kulübü](https://www.tedclub.org.tr/) tenis kort **rezervasyonu**, **tahsilat** ve **operasyon** sistemi.
+Tenis kort **rezervasyonu**, **tahsilat** ve **operasyon** sistemi.
 
 **Durum:** Dokümantasyon v0.2 tamamlandı — **henüz uygulama kodu yok.**
 
@@ -66,8 +66,8 @@ Değişiklikler: [CHANGELOG.md](./CHANGELOG.md).
 
 ## Sonraki adım (kod dışı)
 
-1. [TARIFF_APPENDIX_TEMPLATE.md](./docs/product/TARIFF_APPENDIX_TEMPLATE.md) — TED tarife doldur  
+1. [TARIFF_APPENDIX_TEMPLATE.md](./docs/product/TARIFF_APPENDIX_TEMPLATE.md) — Tarife doldur  
 2. Legal taslaklar — kulüp hukuk onayı  
-3. Resmi TED logo kullanım onayı — [BRANDING.md](./BRANDING.md)
+3. Resmi logo kullanım onayı — [BRANDING.md](./BRANDING.md)
 
 Kod aşaması: kullanıcı “başla” dediğinde [PROMPT.md](./PROMPT.md) + [TASKS.md](./TASKS.md) Faz 1.
